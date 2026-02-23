@@ -49,10 +49,3 @@
   <a href="https://leetcode.com/u/AdamGamil/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="AdamGamil" /></a>
 </p>
 
-<h3 align="left">📊 My GitHub Stats</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-gamil&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="adam-gamil-top-langs" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-gamil&show_icons=true&locale=en&theme=vision-friendly-dark" alt="adam-gamil-stats" />
-</p>
