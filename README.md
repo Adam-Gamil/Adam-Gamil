@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | CS Student @ Cairo University | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adam-gamil&label=Profile%20Views&color=0e75b6&style=flat-square" alt="adam-gamil" />
+  <img src="https://komarev.com/ghpvc/?username=Adam-Gamil&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Adam-Gamil" />
 </p>
 
 <p align="center">
@@ -51,8 +51,8 @@
 
 <h3 align="left">📊 My GitHub Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adam-gamil&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="adam-gamil-top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Gamil&layout=compact&theme=vision-friendly-dark" alt="Adam-Gamil Top Languages" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adam-gamil&show_icons=true&locale=en&theme=vision-friendly-dark" alt="adam-gamil-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adam-Gamil&show_icons=true&theme=vision-friendly-dark" alt="Adam-Gamil GitHub Stats" />
 </p>
